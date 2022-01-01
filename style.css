@@ -2,3 +2,163 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: #EAEFF4;
+    font-size: 24px;
+}
+.container{
+    width: 1280px;
+    margin: 20px auto;
+    box-shadow: 0px 0px 25px rgba(122, 166, 221, 0.3);
+    position: relative;
+}
+main{
+    background-color: #6CA1E5;
+    display: flex;
+}
+h1{
+    font-size: 72px;
+    font-weight: 700;
+    color: #182A3F;
+    margin-left: 100px;
+}
+.first_name{
+    padding-top: 100px;
+    
+}
+.last_name{
+    margin-left: 100px;
+}
+h2{
+    font-size: 48px;
+    font-weight: 600;
+}
+.specialization{
+    color: #182A3F;
+    width: 480px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.foto{
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 2;  
+}
+.left_row{
+    padding-left: 100px;
+    width: 650px;
+}
+.right_row{
+    border-left: 3px solid #EAEFF4;
+    margin-top: 250px;
+}
+.container_right_row{
+   padding-left: 60px;
+   padding-right: 71px
+}
+.about_me{
+    width: 496px;
+    line-height: 40px;
+    margin-top: 50px;
+}
+.education,.language{
+    margin-top: 70px;
+}
+.education_name{
+    margin-top: 40px;
+    width: 440px;
+}
+.study_year{
+    font-weight: 500;
+}
+h3{
+    margin: 10px 0 20px;
+}
+.language h2{
+    margin-bottom: 40px;
+
+}
+.language_name{
+    font-size: 30px;
+    font-weight: 500;
+    margin-right: 34px;
+}
+.language p{
+    padding-top: 15px;
+}
+.post,.phone_number,.discord{
+    display: flex;
+    margin-bottom: 15px;
+}
+.contact h2{
+    margin-bottom: 40px;
+}
+.contact_text{
+    margin-left: 20px;
+}
+.skills{
+    margin-top:70px;
+}
+.skills h2{
+    margin-bottom: 40px;
+}
+.scills_list{
+    list-style-type:none;
+}
+.scills_list li{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.skill_level{
+    list-style-type: none;
+    display: flex;
+    margin-right: 60px;
+    
+}
+.circle{
+    display: block;
+    height: 26px;
+    width: 26px;
+    border-radius: 100%;
+    background-color: #EAEFF4;
+    margin: 0 6px 0;
+}
+.circle_shadow{
+    background-color: #081834;
+}
+.example_code{
+    padding: 70px 0;
+    background-color: #9FBFE7;
+    margin-top: 70px;
+}
+.example_code code{
+    color: #081834;
+    display: block;
+    padding-left: 60px;
+}
+footer{
+    background-color: #081834;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    padding: 0 100px;
+}
+.git_picture{
+    padding-left: 20px;
+}
+.my_github span{
+    margin-left: 20px;
+    color: #EAEFF4;
+    text-decoration: none;
+}
+.link_course{
+    height: 50px;
+    width: 100px;
+}
+
