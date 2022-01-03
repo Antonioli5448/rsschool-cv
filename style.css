@@ -27,8 +27,8 @@ h1{
     padding-top: 100px;
     
 }
-.last_name{
-    margin-left: 100px;
+.first_name span{
+    display: block;
 }
 h2{
     font-size: 48px;
