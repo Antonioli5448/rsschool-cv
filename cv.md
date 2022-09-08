@@ -14,3 +14,16 @@ I am 28 years old. I dont have experience in programming . I am currently focuse
 * Educational Center for Programming and High Tech
   + Web design and mobile interface design
 * JS/FE Pre-School 2022
+  
+## Skills
+* Photoshop
+* Figma
+* Conducting UX Research
+* HTML
+* CSS
+* GIT
+
+## Language:
+* English: A2
+* Germany: A1
+* Russian: Native
